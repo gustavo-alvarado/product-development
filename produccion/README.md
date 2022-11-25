@@ -8,3 +8,4 @@ Se incluyen los siguientes archivos:
 * **music_mood_model.pkl**: Modelo entrenado con redes neuronales para la predicción del mood de una canción. 
 * **features.pkl**: Objeto con el nombre de las características de una canción (extraídas de Spotify) a utilizar para la predicción. 
 * **test.json**: Estructura con los datos de prueba utilizados en Postman.
+* **Modelo_PD_Gustavo_Alvarado.ipynb**: Entrenamiento del modelo utilizando redes neuronales. 
