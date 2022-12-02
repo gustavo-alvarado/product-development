@@ -2,7 +2,7 @@
 
 ### Descripción
 
-Servicio REST API para la clasificación del *mood* de las canciones de una *playlist* de Spotify. El servicio recibe como entrada la URL de la *playlist*, y el *mood* que se requiere en formato JSON: 
+Servicio REST API para la clasificación del *mood* de las canciones de una *playlist* de Spotify. El servicio recibe como entrada la URL de la *playlist*, y el *mood* que se requiere: 
 
 ``` json
 [
