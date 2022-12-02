@@ -39,6 +39,6 @@ Se incluyen los siguientes archivos:
 * **features.pkl**: Objeto con el nombre de las características de una canción (extraídas de Spotify) a utilizar para la predicción. 
 * **Modelo_PD_Gustavo_Alvarado.ipynb**: Entrenamiento del modelo utilizando redes neuronales. 
 
-### Prueba en Postman: 
+### Prueba en Postman
 
 ![alt text](https://github.com/gustavo-alvarado/product-development/blob/main/produccion/Prueba%20en%20Postman.png?raw=true)
