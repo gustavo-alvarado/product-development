@@ -29,7 +29,7 @@ Con los valores de entrada, el servicio se conecta a Spotify para extraer la inf
         "artist": "The Smashing Pumpkins",
         "song": "Bullet With Butterfly Wings - Remastered 2012"
     }
-   ]
+ ]
  ```
 
 Se incluyen los siguientes archivos: 
