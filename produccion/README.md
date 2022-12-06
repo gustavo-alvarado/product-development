@@ -50,6 +50,7 @@ Se incluyen los siguientes archivos:
 
 * Ampliar el conjunto de datos de *playlists* de canciones por *mood* para mejorar la efectividad del modelo. 
 * Ampliar el conjunto de datos a otros *moods* que puedan aplicarse. 
+* Incluír URL de la canción en la respuesta del servicio para futuras integraciones con Spotify. 
 
 ### Referencias
 
