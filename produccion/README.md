@@ -46,5 +46,9 @@ Se incluyen los siguientes archivos:
 
 ### Recomendaciones
 
-* Ampliar el dataset de *playlists* de canciones por *mood* para mejorar la efectividad del modelo. 
-* Ampliar el data set a otros *moods*.
+* Ampliar el conjunto de datos de *playlists* de canciones por *mood* para mejorar la efectividad del modelo. 
+* Ampliar el conjunto de datos a otros *moods* que puedan aplicarse. 
+
+### Referencias
+
+* https://medium.com/codex/music-mood-classification-using-neural-networks-and-spotifys-web-api-d73b391044a4
