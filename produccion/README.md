@@ -35,10 +35,16 @@ Con los valores de entrada, el servicio se conecta a Spotify para extraer la inf
 Se incluyen los siguientes archivos: 
 
 * **api.py**: Servicio API utilizando Flask para publicar el modelo entrenado en un ambiente de producción. 
-* **music_mood_model.pkl**: Modelo entrenado con redes neuronales para la clasificación del *mood* de una canción. 
+* **music_mood_model.pkl**: Modelo entrenado con redes neuronales para la clasificación del *mood* de una canción con una efectividad de 72%.
 * **features.pkl**: Objeto con el nombre de las características de una canción (extraídas de Spotify) a utilizar para la predicción. 
 * **Modelo_PD_Gustavo_Alvarado.ipynb**: Entrenamiento del modelo utilizando redes neuronales. 
 
 ### Prueba en Postman
 
 ![alt text](https://github.com/gustavo-alvarado/product-development/blob/main/produccion/Prueba%20en%20Postman.png?raw=true)
+
+
+### Recomendaciones
+
+* Ampliar el dataset de *playlists* de canciones por *mood* para mejorar la efectividad del modelo. 
+* Ampliar el data set a otros *moods*.
