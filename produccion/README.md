@@ -1,5 +1,7 @@
 # Clasificación del *mood* de canciones con Spotify
 
+*Gustavo Alvarado* | *Product Development* | *Carnet # 20063401* | *gustavo.alvarado@galileo.edu*
+
 ### Descripción
 
 Servicio REST API para la clasificación del *mood* de las canciones de una *playlist* de Spotify. El servicio recibe como entrada la URL de la *playlist*, y el *mood* que se requiere: 
