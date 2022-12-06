@@ -33,6 +33,13 @@ Con los valores de entrada, el servicio se conecta a Spotify para extraer la inf
     }
  ]
  ```
+### Modelo
+
+El modelo utilizado se entrenó con un conjunto de datos de 1649 canciones en Spotify, por medio de redes neuronales (MLP) para la clasificación del *mood* de una canción, utilizando las siguientes características extraídas por medio del servicio API de Spotify para el entrenamiento: *energy*, *liveness*, *tempo*, *speechiness*, *acousticness*, *instrumentalness*, *danceability*, *duration_ms*, *loudness*, *valence*. El resultado del moodelo es la clasificación del *mood* de una canción: *happy*, *dark*, *aggressive* o *relaxing*. A continuación se puede observar un extracto 
+
+![alt text](https://github.com/gustavo-alvarado/product-development/blob/main/produccion/Dataset.png?raw=true)
+
+### Código fuente
 
 Se incluyen los siguientes archivos: 
 
